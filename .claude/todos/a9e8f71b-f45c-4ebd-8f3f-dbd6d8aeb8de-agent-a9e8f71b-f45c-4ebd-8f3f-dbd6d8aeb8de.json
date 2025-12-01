@@ -1,0 +1,17 @@
+[
+  {
+    "content": "Changer le nom d'affichage du compte Windows",
+    "status": "in_progress",
+    "activeForm": "Changement du nom d'affichage du compte Windows"
+  },
+  {
+    "content": "Renommer le compte utilisateur dans les paramètres système",
+    "status": "pending",
+    "activeForm": "Renommage du compte utilisateur dans les paramètres système"
+  },
+  {
+    "content": "Vérifier les modifications et fournir les instructions pour renommer le dossier utilisateur",
+    "status": "pending",
+    "activeForm": "Vérification des modifications et fourniture des instructions"
+  }
+]

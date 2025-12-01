@@ -1,0 +1,32 @@
+2025-12-01T00:11:00.595Z [DEBUG] [Query.streamInput] Starting to process input stream
+2025-12-01T00:11:00.595Z [DEBUG] [Query.streamInput] this.sdkMcpTransports.size = 0
+2025-12-01T00:11:00.595Z [DEBUG] [Query.streamInput] Finished processing 0 messages from input stream
+2025-12-01T00:11:00.595Z [DEBUG] [Query.streamInput] About to check MCP servers. this.sdkMcpTransports.size = 0
+2025-12-01T00:11:00.595Z [DEBUG] [Query.streamInput] Entering Promise.race to wait for result
+2025-12-01T00:11:01.296Z [DEBUG] [Query.streamInput] Starting to process input stream
+2025-12-01T00:11:01.296Z [DEBUG] [Query.streamInput] this.sdkMcpTransports.size = 1
+2025-12-01T00:11:41.464Z [DEBUG] [Query.streamInput] Processing message 1: user
+2025-12-01T00:12:00.599Z [DEBUG] [Query.streamInput] Timed out waiting for first result, closing input stream
+2025-12-01T00:12:00.599Z [DEBUG] [Query] Calling transport.endInput() to close stdin to CLI process
+2025-12-01T00:13:03.794Z [DEBUG] [Query.streamInput] Processing message 2: user
+2025-12-01T00:13:34.169Z [DEBUG] [Query.streamInput] Processing message 3: user
+2025-12-01T00:18:53.883Z [DEBUG] [Query.streamInput] Processing message 4: user
+2025-12-01T00:21:07.825Z [DEBUG] [Query.streamInput] Starting to process input stream
+2025-12-01T00:21:07.825Z [DEBUG] [Query.streamInput] this.sdkMcpTransports.size = 0
+2025-12-01T00:21:07.825Z [DEBUG] [Query.streamInput] Finished processing 0 messages from input stream
+2025-12-01T00:21:07.825Z [DEBUG] [Query.streamInput] About to check MCP servers. this.sdkMcpTransports.size = 0
+2025-12-01T00:21:07.825Z [DEBUG] [Query.streamInput] Entering Promise.race to wait for result
+2025-12-01T00:21:07.878Z [DEBUG] [Query.streamInput] Starting to process input stream
+2025-12-01T00:21:07.878Z [DEBUG] [Query.streamInput] this.sdkMcpTransports.size = 1
+2025-12-01T00:21:24.422Z [DEBUG] [Query.streamInput] Processing message 1: user
+2025-12-01T00:22:07.834Z [DEBUG] [Query.streamInput] Timed out waiting for first result, closing input stream
+2025-12-01T00:22:07.834Z [DEBUG] [Query] Calling transport.endInput() to close stdin to CLI process
+2025-12-01T00:22:26.839Z [DEBUG] [Query.streamInput] Processing message 2: user
+2025-12-01T00:23:01.705Z [DEBUG] [Query.streamInput] Processing message 3: user
+2025-12-01T00:24:02.787Z [DEBUG] [Query.streamInput] Processing message 4: user
+2025-12-01T00:26:06.938Z [DEBUG] [Query.streamInput] Processing message 5: user
+2025-12-01T00:28:26.057Z [DEBUG] [Query.streamInput] Processing message 5: user
+2025-12-01T00:28:35.572Z [DEBUG] [Query.streamInput] Processing message 6: user
+2025-12-01T00:30:27.187Z [DEBUG] [Query.streamInput] Processing message 6: user
+2025-12-01T00:31:54.210Z [DEBUG] [Query.streamInput] Processing message 7: user
+2025-12-01T00:33:08.753Z [DEBUG] [Query.streamInput] Processing message 8: user

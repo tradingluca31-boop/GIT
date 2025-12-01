@@ -1,0 +1,23 @@
+2025-11-30T21:04:09.698Z [DEBUG] [Query.streamInput] Starting to process input stream
+2025-11-30T21:04:09.699Z [DEBUG] [Query.streamInput] this.sdkMcpTransports.size = 0
+2025-11-30T21:04:09.700Z [DEBUG] [Query.streamInput] Finished processing 0 messages from input stream
+2025-11-30T21:04:09.700Z [DEBUG] [Query.streamInput] About to check MCP servers. this.sdkMcpTransports.size = 0
+2025-11-30T21:04:09.700Z [DEBUG] [Query.streamInput] Entering Promise.race to wait for result
+2025-11-30T21:04:09.836Z [DEBUG] [Query.streamInput] Starting to process input stream
+2025-11-30T21:04:09.836Z [DEBUG] [Query.streamInput] this.sdkMcpTransports.size = 1
+2025-11-30T21:04:19.604Z [DEBUG] [Query.streamInput] Starting to process input stream
+2025-11-30T21:04:19.604Z [DEBUG] [Query.streamInput] this.sdkMcpTransports.size = 0
+2025-11-30T21:04:19.604Z [DEBUG] [Query.streamInput] Finished processing 0 messages from input stream
+2025-11-30T21:04:19.604Z [DEBUG] [Query.streamInput] About to check MCP servers. this.sdkMcpTransports.size = 0
+2025-11-30T21:04:19.604Z [DEBUG] [Query.streamInput] Entering Promise.race to wait for result
+2025-11-30T21:04:19.852Z [DEBUG] [Query.streamInput] Starting to process input stream
+2025-11-30T21:04:19.852Z [DEBUG] [Query.streamInput] this.sdkMcpTransports.size = 1
+2025-11-30T21:04:24.795Z [DEBUG] [Query.streamInput] Finished processing 0 messages from input stream
+2025-11-30T21:04:24.795Z [DEBUG] [Query.streamInput] About to check MCP servers. this.sdkMcpTransports.size = 1
+2025-11-30T21:04:24.795Z [DEBUG] [Query.streamInput] Entering Promise.race to wait for result
+2025-11-30T21:05:09.700Z [DEBUG] [Query.streamInput] Timed out waiting for first result, closing input stream
+2025-11-30T21:05:09.700Z [DEBUG] [Query] Calling transport.endInput() to close stdin to CLI process
+2025-11-30T21:05:19.607Z [DEBUG] [Query.streamInput] Timed out waiting for first result, closing input stream
+2025-11-30T21:05:19.607Z [DEBUG] [Query] Calling transport.endInput() to close stdin to CLI process
+2025-11-30T21:05:24.799Z [DEBUG] [Query.streamInput] Timed out waiting for first result, closing input stream
+2025-11-30T21:05:24.799Z [DEBUG] [Query] Calling transport.endInput() to close stdin to CLI process

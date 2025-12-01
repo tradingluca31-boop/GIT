@@ -1,5 +1,5 @@
 # Fichiers sensibles - NE PAS synchroniser
-.credentials.json
+.claude/.credentials.json
 *.env
 *.key
 *.pem

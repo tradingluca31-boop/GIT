@@ -1,0 +1,22 @@
+[
+  {
+    "content": "Changer le nom d'affichage du compte Windows",
+    "status": "completed",
+    "activeForm": "Changement du nom d'affichage du compte Windows"
+  },
+  {
+    "content": "Modifier le nom du compte Microsoft en ligne",
+    "status": "completed",
+    "activeForm": "Modification du nom du compte Microsoft en ligne"
+  },
+  {
+    "content": "Modifier le registre Windows pour changer le nom d'affichage",
+    "status": "completed",
+    "activeForm": "Modification du registre Windows pour changer le nom d'affichage"
+  },
+  {
+    "content": "Redémarrer l'ordinateur pour appliquer les changements",
+    "status": "in_progress",
+    "activeForm": "Redémarrage de l'ordinateur pour appliquer les changements"
+  }
+]
