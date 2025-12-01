@@ -1,0 +1,24 @@
+# Fichiers sensibles - NE PAS synchroniser
+.credentials.json
+*.env
+*.key
+*.pem
+
+# Fichiers temporaires
+*.tmp
+*.log
+~$*
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Dossiers node_modules (si vous utilisez Node.js)
+node_modules/
+
+# Dossiers Python (si vous utilisez Python)
+__pycache__/
+*.pyc
+venv/
+.venv/
